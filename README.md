@@ -1,4 +1,4 @@
-## Hi 👋, I'm Your Aya
+## Hi 👋, I'm Aya
 
 <!--
 🎯 Frontend Developer (React)
